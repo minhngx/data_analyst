@@ -93,7 +93,7 @@
 - Database systems (SQL-based and NO SQL based) - Databases act as a central hub to store information
  - [ ] Relational databases such as PostgreSQL, mySQL, Netezza, Oracle, etc.
  - [ ] Optional: Hadoop, Spark, MongoDB
-- [ ] SQL
+- [x] SQL
 
 ## Communication and Data Visualization
 - [ ] **Understand visual encoding and communicating what you want the audience to take away from your visualizations**
