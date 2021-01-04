@@ -21,7 +21,7 @@
   - [ ] reshape2
 - **Optional**
     - [ ] ipython
-    - [x] ipython notebook
+    - [ ] ipython notebook
     - [ ] anaconda
     - [ ] ggplot
     - [ ] seaborn
@@ -35,7 +35,7 @@
 
 ## Statistic
 - Descriptive and Inferential statistics
-  - [x] Mean, median, mode
+  - [ ] Mean, median, mode
   - [ ] Data distributions
     - [ ] Standard normal
     - [ ] Exponential/Poisson
@@ -56,8 +56,8 @@
   - [ ] SMART experiments: Specific, Measurable, Actionable, Realistic, Timely]
 
 ## Mathematics
-- [x] Translate numbers and concepts into a mathematical expression: 4 times the square-root of one-third of a gallon of water (expressed as g): 4 √(1/3 g)
-- [x] Solve for missing values in Algebra equations: 14 = 2x + 29
+- [ ] Translate numbers and concepts into a mathematical expression: 4 times the square-root of one-third of a gallon of water (expressed as g): 4 √(1/3 g)
+- [ ] Solve for missing values in Algebra equations: 14 = 2x + 29
 - [ ] How does the 1/2 value change the shape of this graph?
 - [ ] Linear algebra and Calculus
 - [ ] Matrix manipulations. Dot product is crucial to understand.
@@ -88,12 +88,12 @@
   - [ ] Learn about Python String library for string manipulations
   - [ ] Parsing common file formats such as csv and xml files
   - [ ] Regular Expressions
-  - [x] Mathematical transformations
-    - [x] Convert non-normal distribution to normal with log-10 transformation
+  - [ ] Mathematical transformations
+    - [ ] Convert non-normal distribution to normal with log-10 transformation
 - Database systems (SQL-based and NO SQL based) - Databases act as a central hub to store information
  - [ ] Relational databases such as PostgreSQL, mySQL, Netezza, Oracle, etc.
  - [ ] Optional: Hadoop, Spark, MongoDB
-- [x] SQL
+- [ ] SQL
 
 ## Communication and Data Visualization
 - [ ] **Understand visual encoding and communicating what you want the audience to take away from your visualizations**
