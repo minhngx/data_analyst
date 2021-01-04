@@ -1,5 +1,3 @@
-#Ultimate Skill Checklist For Data Analyst
-
 ## Contents
 - [Programming](#programming)
 - [Statistic](#statistic)
@@ -11,9 +9,9 @@
 
 ## Programming
 - **Python programming language**
-  - [ ] numpy
-  - [ ] pandas
-  - [ ] matplotlib
+  - [x] numpy
+  - [x] pandas
+  - [x] matplotlib
   - [ ] scipy
   - [ ] scikit-learn
 - **R programming language**
