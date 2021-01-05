@@ -5,7 +5,6 @@
 - [Machine Learning](#machine-learning)
 - [Data Wrangling](#data-wrangling)
 - [Communication and Data Visualization](#communication-and-data-visualization)
-- [Data Intuition](#data-intuition)
 
 ## Programming
 - **Python programming language**
