@@ -1,13 +1,13 @@
 ## Contents:
-- Intro, interpreter, number, boolen - **Done**
-- List, string, name - **Done**
-- GitLab, control flow, **list**
-- **Git**, **Tuple**, PEP8, ListComps
-- **Import**, **Set**, **Dict**
-- **File**, JSON, **Function**, Exception
-- Exception, Package, Virtualenv, **Pip**, **Class( OOP)**
+- Intro, interpreter, number, boolen
+- List, string, name
+- GitLab, control flow, list
+- Git, Tuple, PEP8, ListComps
+- Import, Set, Dict
+- File, JSON, Function, Exception
+- Exception, Package, Virtualenv, Pip, Class( OOP)
 - stdlib, decorator, generator, debugging
 - Crawling/ Scraping data( a MUST for data analysis)
 - Flask/ Django, API, DB
-- Data analysis( **numpy**, **matplotlib**, **pandas**, a bit sklearn)
+- Data analysis( numpy, matplotlib, pandas, a bit sklearn)
 - Daily life Automation( not Ansible/ SaltStack), QAs
