@@ -10,4 +10,4 @@
 - Crawling/ Scraping data( a MUST for data analysis)
 - Flask/ Django, API, DB
 - Data analysis( numpy, matplotlib, pandas, a bit sklearn)
-- Daily life Automation( not Ansible/ SaltStack), QAs
+- Daily life Automation( not Ansible/ SaltStack)
